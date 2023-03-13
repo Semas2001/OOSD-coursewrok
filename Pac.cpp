@@ -1,0 +1,1 @@
+/* This is the Pac class for the body/character.  */
